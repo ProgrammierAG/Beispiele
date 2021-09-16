@@ -1,10 +1,12 @@
 # Funktionen 
 
-![Parameter => Funktion => Return values](Funktionen.png "Funktionen")
 
-![Parameter => Funktion => Side effects](SideEffects.png "Side effects")
 ---
 ## Return Values
+
+![Parameter => Funktion => Return values](Funktionen.png "Funktionen")
+
+
 `Return Values` klingt etwas kompliziert ist es aber nicht. Es heißt eigentlich nur, dass eine Funktion einen Wert nach Operationen ausgibt.
 
 ```python
@@ -51,6 +53,8 @@ print(add(4))
 ```
 ---
 ## Side effects
+
+![Parameter => Funktion => Side effects](SideEffects.png "Side effects")
 
 Bei *Side effects* handelt es sich lediglich um Funktionen, die die Instanz verändern können. Das ist einfach nur eine Funktion, die Effekte außerhalb ihrer Operationen hat und so auf andere Variablen zugreift etc.
 
