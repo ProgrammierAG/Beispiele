@@ -69,6 +69,6 @@ setX(60)
 print(x)
     >>> 60
 ```
-Das keyword `global` ermöglicht der Funktion  die Varible/n nach dem `global` zu verändern
+Das keyword `global` ermöglicht der Funktion die Varible/n nach dem `global` zu verändern, wenn sie außerhalb von ihrem scope sind.
 
 ---
